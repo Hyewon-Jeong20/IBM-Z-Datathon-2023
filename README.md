@@ -1,5 +1,5 @@
-IBM-Z-Datathon-2023
- - The Crisis of Korea's Birth Rate
+#IBM-Z-Datathon-2023
+The Crisis of Korea's Birth Rate
 
 ## Inspiration
 Recognizing the gravity of South Korea's low birth rate, we collected reliable data from sources such as news reports and official statistics databases. Our goal was to analyze databases pinpoint the causes and suggest solutions.
